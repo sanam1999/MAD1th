@@ -1,0 +1,156 @@
+{
+  "countries": [
+    {
+  "country": "Sri Lanka",
+  "cities": ["Colombo", "Kandy", "Galle", "Negombo", "Jaffna", "Anuradhapura", "Batticaloa", "Matara", "Trincomalee", "Kurunegala"]
+},
+{
+  "country": "Nepal",
+  "cities": ["Kathmandu", "Pokhara", "Lalitpur", "Bhaktapur", "Bhairahawa", "Janakpur", "Biratnagar", "Chitwan", "Butwal", "Itahari"]
+},
+    {
+      "country": "United States",
+      "cities": ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix", "Philadelphia", "San Antonio", "San Diego", "Dallas", "San Jose"]
+    },
+    {
+      "country": "India",
+      "cities": ["Mumbai", "Delhi", "Bangalore", "Hyderabad", "Ahmedabad", "Chennai", "Kolkata", "Pune", "Jaipur", "Surat"]
+    },
+    {
+      "country": "China",
+      "cities": ["Beijing", "Shanghai", "Guangzhou", "Shenzhen", "Chengdu", "Chongqing", "Tianjin", "Wuhan", "Xi'an", "Nanjing"]
+    },
+    {
+      "country": "Brazil",
+      "cities": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador", "Fortaleza", "Belo Horizonte", "Manaus", "Curitiba", "Recife", "Porto Alegre"]
+    },
+    {
+      "country": "Germany",
+      "cities": ["Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt", "Stuttgart", "Düsseldorf", "Dortmund", "Essen", "Leipzig"]
+    },
+    {
+      "country": "Canada",
+      "cities": ["Toronto", "Vancouver", "Montreal", "Calgary", "Edmonton", "Ottawa", "Winnipeg", "Quebec City", "Halifax", "Victoria"]
+    },
+    {
+      "country": "Japan",
+      "cities": ["Tokyo", "Osaka", "Yokohama", "Nagoya", "Sapporo", "Fukuoka", "Kobe", "Kyoto", "Hiroshima", "Sendai"]
+    },
+    {
+      "country": "Australia",
+      "cities": ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide", "Canberra", "Gold Coast", "Newcastle", "Hobart", "Darwin"]
+    },
+    {
+      "country": "France",
+      "cities": ["Paris", "Marseille", "Lyon", "Toulouse", "Nice", "Nantes", "Strasbourg", "Montpellier", "Bordeaux", "Lille"]
+    },
+    {
+      "country": "South Africa",
+      "cities": ["Johannesburg", "Cape Town", "Durban", "Pretoria", "Port Elizabeth", "Bloemfontein", "East London", "Polokwane", "Nelspruit", "Kimberley"]
+    },
+    {
+      "country": "Mexico",
+      "cities": ["Mexico City", "Guadalajara", "Monterrey", "Puebla", "Tijuana", "León", "Cancún", "Mérida", "Toluca", "Ciudad Juárez"]
+    },
+    {
+      "country": "Italy",
+      "cities": ["Rome", "Milan", "Naples", "Turin", "Palermo", "Genoa", "Bologna", "Florence", "Catania", "Venice"]
+    },
+    {
+      "country": "United Kingdom",
+      "cities": ["London", "Birmingham", "Manchester", "Leeds", "Glasgow", "Liverpool", "Bristol", "Edinburgh", "Sheffield", "Newcastle"]
+    },
+    {
+      "country": "Russia",
+      "cities": ["Moscow", "Saint Petersburg", "Novosibirsk", "Yekaterinburg", "Kazan", "Nizhny Novgorod", "Chelyabinsk", "Samara", "Omsk", "Rostov-on-Don"]
+    },
+    {
+      "country": "South Korea",
+      "cities": ["Seoul", "Busan", "Incheon", "Daegu", "Daejeon", "Gwangju", "Suwon", "Ulsan", "Changwon", "Jeonju"]
+    },
+    {
+      "country": "Saudi Arabia",
+      "cities": ["Riyadh", "Jeddah", "Mecca", "Medina", "Dammam", "Khobar", "Tabuk", "Buraidah", "Abha", "Hofuf"]
+    },
+    {
+      "country": "Spain",
+      "cities": ["Madrid", "Barcelona", "Valencia", "Seville", "Zaragoza", "Málaga", "Murcia", "Palma", "Las Palmas", "Bilbao"]
+    },
+    {
+      "country": "Turkey",
+      "cities": ["Istanbul", "Ankara", "Izmir", "Bursa", "Adana", "Gaziantep", "Konya", "Antalya", "Kayseri", "Mersin"]
+    },
+    {
+      "country": "Argentina",
+      "cities": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza", "San Miguel de Tucumán", "La Plata", "Mar del Plata", "Salta", "Santa Fe", "San Juan"]
+    },
+    {
+      "country": "Nigeria",
+      "cities": ["Lagos", "Abuja", "Kano", "Ibadan", "Port Harcourt", "Benin City", "Kaduna", "Maiduguri", "Zaria", "Enugu"]
+    },
+    {
+      "country": "Indonesia",
+      "cities": ["Jakarta", "Surabaya", "Bandung", "Medan", "Semarang", "Makassar", "Palembang", "Depok", "Tangerang", "Bekasi"]
+    },
+    {
+      "country": "Thailand",
+      "cities": ["Bangkok", "Chiang Mai", "Pattaya", "Phuket", "Nakhon Ratchasima", "Udon Thani", "Khon Kaen", "Hat Yai", "Pak Kret", "Nonthaburi"]
+    },
+    {
+      "country": "Egypt",
+      "cities": ["Cairo", "Alexandria", "Giza", "Shubra El-Kheima", "Port Said", "Suez", "Mansoura", "Tanta", "Asyut", "Ismailia"]
+    },
+    {
+      "country": "Vietnam",
+      "cities": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Haiphong", "Can Tho", "Nha Trang", "Hue", "Bien Hoa", "Vung Tau", "Thanh Hoa"]
+    },
+    {
+      "country": "Pakistan",
+      "cities": ["Karachi", "Lahore", "Islamabad", "Rawalpindi", "Faisalabad", "Peshawar", "Quetta", "Multan", "Gujranwala", "Sialkot"]
+    },
+    {
+      "country": "Bangladesh",
+      "cities": ["Dhaka", "Chittagong", "Khulna", "Rajshahi", "Sylhet", "Barisal", "Comilla", "Gazipur", "Narayanganj", "Rangpur"]
+    },
+    {
+      "country": "Malaysia",
+      "cities": ["Kuala Lumpur", "George Town", "Johor Bahru", "Ipoh", "Shah Alam", "Petaling Jaya", "Kuching", "Kota Kinabalu", "Melaka", "Alor Setar"]
+    },
+    {
+      "country": "Netherlands",
+      "cities": ["Amsterdam", "Rotterdam", "The Hague", "Utrecht", "Eindhoven", "Groningen", "Tilburg", "Almere", "Breda", "Nijmegen"]
+    },
+    {
+      "country": "Philippines",
+      "cities": ["Manila", "Quezon City", "Davao City", "Cebu City", "Zamboanga City", "Taguig", "Antipolo", "Pasig", "Cagayan de Oro", "Parañaque"]
+    },
+    {
+      "country": "Colombia",
+      "cities": ["Bogotá", "Medellín", "Cali", "Barranquilla", "Cartagena", "Bucaramanga", "Pereira", "Santa Marta", "Manizales", "Ibagué"]
+    },
+    {
+      "country": "Poland",
+      "cities": ["Warsaw", "Krakow", "Łódź", "Wrocław", "Poznań", "Gdańsk", "Szczecin", "Bydgoszcz", "Lublin", "Katowice"]
+    },
+    {
+      "country": "Chile",
+      "cities": ["Santiago", "Valparaíso", "Concepción", "La Serena", "Antofagasta", "Temuco", "Rancagua", "Arica", "Iquique", "Puerto Montt"]
+    },
+    {
+      "country": "Iran",
+      "cities": ["Tehran", "Mashhad", "Isfahan", "Karaj", "Shiraz", "Tabriz", "Qom", "Ahvaz", "Kermanshah", "Rasht"]
+    },
+    {
+      "country": "Kenya",
+      "cities": ["Nairobi", "Mombasa", "Kisumu", "Nakuru", "Eldoret", "Thika", "Malindi", "Nyeri", "Machakos", "Meru"]
+    },
+    {
+      "country": "Greece",
+      "cities": ["Athens", "Thessaloniki", "Patras", "Heraklion", "Larissa", "Volos", "Ioannina", "Chania", "Rhodes", "Kalamata"]
+    },
+    {
+      "country": "Sweden",
+      "cities": ["Stockholm", "Gothenburg", "Malmö", "Uppsala", "Västerås", "Örebro", "Linköping", "Helsingborg", "Jönköping", "Norrköping"]
+    }
+  ]
+}
