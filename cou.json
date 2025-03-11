@@ -154,3 +154,49 @@
     }
   ]
 }
+
+
+Explanation of the Image Storage Website
+
+This website provides a cloud-based image storage solution. Users can upload, store, and manage images through an API. The system generates direct image links for easy access and sharing. Users can delete images using their links.
+
+Key Features:
+1. User Authentication & API Key Management
+Users sign up on the official website.
+Upon registration, an API key and secret are generated.
+API keys authenticate users for all API requests.
+2. Image Upload & Storage
+Users upload images via API.
+The system generates a unique URL for each image.
+Images are stored in a cloud-based storage system.
+3. Image Retrieval
+Users can access stored images using the generated URLs.
+Images can be served via CDN for fast delivery.
+4. Image Deletion
+Users can delete images using their unique URLs and API credentials.
+5. Subscription Plans
+Free Plan: Limited to 5 images.
+Paid Plans: Three tiers with increased storage and features
+Sequence Diagram
+Participant: User
+Participant: Website (API)
+Participant: Storage System
+User -> Website (API): Sign Up
+Website (API) -> Storage System: Create API Key & Secret
+Storage System -> Website (API): Return API Key & Secret
+Website (API) -> User: Provide API Key & Secret
+User -> Website (API): Upload Image (with API Key)
+Website (API) -> Storage System: Store Image
+Storage System -> Website (API): Return Image URL
+Website (API) -> User: Provide Image URL
+User -> Website (API): Retrieve Image (using URL)
+Website (API) -> Storage System: Fetch Image
+Storage System -> Website (API): Return Image
+Website (API) -> User: Display Image
+User -> Website (API): Delete Image (using URL & API Key)
+Website (API) -> Storage System: Remove Image
+Storage System -> Website (API): Confirm Deletion
+Website (API) -> User: Acknowledge Deletion
+This structure ensures a seamless image hosting and management experience. Let me know if you want modifications or additional features!
+
+
